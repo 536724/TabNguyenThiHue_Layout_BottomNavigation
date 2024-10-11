@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_news" android:title="Home" android:icon="@drawable/icon_home"/>
+    <item android:id="@+id/menu_msv" android:title="Ma sinh vien" android:icon="@drawable/icon_home"/>
+    <item android:id="@+id/menu_address" android:title="Que quan" android:icon="@drawable/icon_home"/>
+</menu>
